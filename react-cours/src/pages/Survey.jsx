@@ -1,6 +1,6 @@
 function Survey() {
   return (
-    <div class="testbordur">
+    <div className="testbordur">
       <h1>Questionnaire</h1>
     </div>
   );
